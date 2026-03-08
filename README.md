@@ -21,7 +21,7 @@
 <img  src="https://alvinau0427-github-readme-stats.vercel.app/api?username=chichung-au-dev&show_icons=true&hide_border=true&theme=dark&title_color=FFA500&&icon_color=FFA500&text_color=FFFFFF" width="48%">
 
 ## Find me around the web :globe_with_meridians:
-- :mag_right: Know more about me on [Portfolio](https://chichung-au-dev.github.io/)
+- :mag_right: Know more about me on [Portfolio](https://chichungau.com/)
 - :email: Reach me by email to chichung.au.dev@gmail.com
 - :speech_balloon: Ask me about anything in [here](https://github.com/chichung-au-dev/chichung-au-dev/issues)
 
