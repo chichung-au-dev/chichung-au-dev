@@ -1,23 +1,23 @@
 ## Hi! I'm ChiChung Au
 <p align="center">
-  <img width="65%" height="auto" src="img_github_banner_chichung-au-dev.png">
+  <img width="65%" height="auto" src="images/github-banner.png">
 </p>
 <p align="center">
-  <a href="#!"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/java.svg" alt="Java" width="25" height="25" /></a>
+  <a href="#!"><img src="images/java-plain.svg" alt="Java" width="25" height="25" /></a>
   &nbsp;
-  <a href="#!"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a>
+  <a href="#!"><img src="images/html5-plain.svg" alt="HTML5" width="25" height="25" /></a>
   &nbsp;
-  <a href="#!"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a>
+  <a href="#!"><img src="images/css3-plain.svg" alt="CSS3" width="25" height="25" /></a>
   &nbsp;
-  <a href="#!"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a>
+  <a href="#!"><img src="images/javascript-plain.svg" alt="JavaScript" width="25" height="25" /></a>
   &nbsp;
-  <a href="#!"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="TypeScript" width="25" height="25" /></a>
+  <a href="#!"><img src="images/typescript-plain.svg" alt="TypeScript" width="25" height="25" /></a>
   &nbsp;
-  <a href="#!"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a>
+  <a href="#!"><img src="images/node-plain.svg" alt="Node" width="25" height="25" /></a>
   &nbsp;
-  <a href="#!"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="ReactJS" width="25" height="25" /></a>
+  <a href="#!"><img src="images/react-plain.svg" alt="React" width="25" height="25" /></a>
   &nbsp;
-  <a href="#!"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vue.svg" alt="VueJS" width="25" height="25" /></a>
+  <a href="#!"><img src="images/vue-plain.svg" alt="Vue" width="25" height="25" /></a>
 </p>
 
 ## GitHub personal stats
